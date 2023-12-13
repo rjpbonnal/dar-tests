@@ -143,11 +143,11 @@ catalog/CAT_test_2023-12-13_master.1.dar.sha512
 catalog/CAT_test_2023-12-13_master.1.dar
 
 ```
-cd catalog
-dar -l CAT_test_2023-12-13_master -Tslicing -g rendering-files/file020.bin
-```
 
 ```
+cd catalog
+dar -l CAT_test_2023-12-13_master -Tslicing -g rendering-files/file020.bin
+
 #this may vary for you
 
 Slice(s)|[Data ][D][ EA  ][FSA][Compr][S]|Permission| Filemane
