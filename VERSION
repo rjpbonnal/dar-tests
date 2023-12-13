@@ -1,0 +1,76 @@
+dar version 2.7.13, Copyright (C) 2002-2023 Denis Corbin
+
+   Long options support         : YES
+
+
+
+ Using libdar 6.7.1 built with compilation time options:
+
+   gzip compression (libz)      : YES
+
+   bzip2 compression (libbzip2) : YES
+
+   lzo compression (liblzo2)    : YES
+
+   xz compression (liblzma)     : YES
+
+   zstd compression (libzstd)   : YES
+
+   lz4 compression (liblz4)     : YES
+
+   Strong encryption (libgcrypt): YES
+
+   Public key ciphers (gpgme)   : YES
+
+   Extended Attributes support  : YES
+
+   Large files support (> 2GB)  : YES
+
+   ext2fs NODUMP flag support   : YES
+
+   Integer size used            : 64 bits
+
+   Thread safe support          : YES
+
+   Furtive read mode support    : YES
+
+   Linux ext2/3/4 FSA support   : YES
+
+   Mac OS X HFS+ FSA support    : NO
+
+   Linux statx() support        : YES
+
+   Detected system/CPU endian   : little
+
+   Posix fadvise support        : YES
+
+   Large dir. speed optimi.     : YES
+
+   Timestamp read accuracy      : 1 nanosecond
+
+   Timestamp write accuracy     : 1 nanosecond
+
+   Restores dates of symlinks   : YES
+
+   Multiple threads (libthreads): YES (1.4.0 - barrier using pthread_barrier_t)
+
+   Delta compression (librsync) : YES
+
+   Remote repository (libcurl)  : YES (libcurl/8.4.0 OpenSSL/3.0.11 zlib/1.2.13 brotli/1.0.9 zstd/1.5.4 libidn2/2.3.3 libpsl/0.21.2 (+libidn2/2.3.3) libssh2/1.10.0 nghttp2/1.52.0 librtmp/2.3 OpenLDAP/2.5.13)
+
+   argon2 hashing (libargon2)   : YES
+
+
+
+ compiled the Oct 23 2023 with GNUC version 12.2.0
+
+ dar is part of the Disk ARchive suite (Release 2.7.13)
+
+ dar comes with ABSOLUTELY NO WARRANTY; for details
+
+ type `dar -W'. This is free software, and you are welcome
+
+ to redistribute it under certain conditions; type `dar -L | more'
+
+ for details.
+
