@@ -1,5 +1,7 @@
-#I run the tests inside an apptainer image build from Docker
-# apptainer shell -B <path_to_my_test_dir> test/debian-dar_bookworm.sif
+
+I run the tests inside an apptainer image build from Docker
+
+ apptainer shell -B <path_to_my_test_dir> test/debian-dar_bookworm.sif
 
 ```
 cd path_to_my_test_dir
