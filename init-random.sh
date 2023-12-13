@@ -1,3 +1,4 @@
+# credits: https://support.google.com/elastifile-support/answer/9899027?hl=en
 # 20 large <2GB each , 20 medium <200MB each, 20 small <8MB each, 20 smallest <1MB each
 #large files
 mkdir -p data
